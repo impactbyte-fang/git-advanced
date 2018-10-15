@@ -4,6 +4,7 @@
   "description": "Git Advanced",
   "main": "index.js",
   "scripts": {
+    "build": "npm install && cp node_modules/bootstrap/dist/css/bootstrap.min.css .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
