@@ -1,0 +1,23 @@
+{
+  "name": "git-advanced",
+  "version": "1.0.0",
+  "description": "Git Advanced",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/impactbyte-fang/git-advanced.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/impactbyte-fang/git-advanced/issues"
+  },
+  "homepage": "https://github.com/impactbyte-fang/git-advanced#readme",
+  "dependencies": {
+    "bootstrap": "4.1.3"
+  }
+}
