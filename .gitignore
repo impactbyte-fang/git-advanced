@@ -2,3 +2,5 @@ node_modules
 
 secrets.txt
 *secret*
+
+bootstrap.min.css
